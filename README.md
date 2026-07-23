@@ -93,3 +93,11 @@ After running the script, the generated content is stored in:
 ## License
 
 See the repository's license file for usage terms.
+
+## Graphify
+```bash
+graphify update .
+```
+```bash
+graphify . --backend ollama --model gemma4:latest --embeddings
+```
